@@ -1,6 +1,6 @@
 # Sparse 3D Reconstruction Project
 
-A simple, interview-friendly multi-view 3D reconstruction pipeline using:
+A simple, multi-view 3D reconstruction pipeline using:
 
 - SIFT feature extraction
 - Feature matching
